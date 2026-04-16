@@ -32,4 +32,3 @@ Once the program is running, you will see a main menu. You can interact with the
 - **Enter `4`**: Exit the program safely.
 
 If you input an invalid option or station name, the system will catch the error and prompt you to try again.
-```
